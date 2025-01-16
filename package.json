@@ -1,0 +1,14 @@
+{
+  "name": "Xrls-aia9",
+  "version": "1.0.0",
+  "description": "Un bot de Discord minimalista",
+  "main": "src/index.js",
+  "dependencies": {
+    "discord.js": "^14.3.0"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "CarlosAgreda",
+  "license": "ISC"
+}
